@@ -1,0 +1,6 @@
+## Dark Sky API Key
+API_KEY="abcd1234567890"
+
+## Location
+LAT=48.135125
+LON=11.581981
